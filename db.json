@@ -1,20 +1,26 @@
 {
   "books": [
-    { "title": "Том 1. От основания Церкви до эпохи Реформации", "link": "https://reformationheritage.neocities.org/History/Justo_L_Gonzalez/Justo_L_Gonzalez_Books", "fullName": "ХУСТО ГОНСАЛЕС", "firstName": "ХУСТО", "lastName": "ГОНСАЛЕС"},
-    { "title": "Том 2. От эпохи Реформации до нашего времени", "link": "https://reformationheritage.neocities.org/History/Justo_L_Gonzalez/Justo_L_Gonzalez_Books", "fullName": "ХУСТО ГОНСАЛЕС", "firstName": "ХУСТО", "lastName": "ГОНСАЛЕС"},
-
-    { "title": "Вестминстерское Исповедание Веры", "link": "https://reformationheritage.neocities.org/Library_Books/Westminster_Confession_of_Faith/Westminster_Confession_of_Faith", "fullName": "Вероучительные документы"},
-    { "title": "Баптистское Исповедание Веры 1689 года (Второе Лондонское)", "link": "https://reformationheritage.neocities.org/%D0%91%D0%B0%D0%BF%D1%82%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B5%D0%98%D1%81%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%92%D0%B5%D1%80%D1%8B1689.pdf", "fullName": "Вероучительные документы"},
-    { "title": "Каноны Дортского Синода", "link": "https://reformationheritage.neocities.org/Library_Books/Reshenie_Dortskogo_Sinoda/Dortskiy_Sinod", "fullName": "Вероучительные документы"},
     
-    { "title": "Новая Женевская Библия (НЖБ)", "link": "https://reformationheritage.neocities.org/Library_Books/Commentaries_of_bible/geneva_bible.pdf", "fullName": "Комментарии к Библии"},
 
-    { "title": "Джеймс Фишер - Краткий катехизис Вестминстерской ассамблеи", "link": "https://reformationheritage.neocities.org/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%A4%D0%B8%D1%88%D0%B5%D1%80_%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%82%D0%B5%D1%85%D0%B8%D0%B7%D0%B8%D1%81_%D0%92%D0%B5%D1%81%D1%82%D0%BC%D0%B8%D0%BD%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%81%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D0%B8.pdf", "fullName": "Катехизисы"},
+    { "title": "Вестминстерское Исповедание Веры", "link": "https://reformationheritage.neocities.org/Library_Books/Westminster_Confession_of_Faith/Westminster_Confession_of_Faith", "fullName": "Раздел: Вероучительные документы"},
+    { "title": "Баптистское Исповедание Веры 1689 года (Второе Лондонское)", "link": "https://reformationheritage.neocities.org/%D0%91%D0%B0%D0%BF%D1%82%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE%D0%B5%D0%98%D1%81%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%92%D0%B5%D1%80%D1%8B1689.pdf", "fullName": "Раздел: Вероучительные документы"},
+    { "title": "Каноны Дортского Синода", "link": "https://reformationheritage.neocities.org/Library_Books/Reshenie_Dortskogo_Sinoda/Dortskiy_Sinod", "fullName": "Раздел: Вероучительные документы"},
     
-    { "title": "", "link": "", "fullName": ""},
-    { "title": "", "link": "", "fullName": ""},
-    { "title": "", "link": "", "fullName": ""}
+    { "title": "Новая Женевская Библия (НЖБ)", "link": "https://reformationheritage.neocities.org/Library_Books/Commentaries_of_bible/geneva_bible.pdf", "fullName": "Раздел: Комментарии к Библии"},
+
+    { "title": "Джеймс Фишер - Краткий катехизис Вестминстерской ассамблеи", "link": "https://reformationheritage.neocities.org/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%A4%D0%B8%D1%88%D0%B5%D1%80_%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%82%D0%B5%D1%85%D0%B8%D0%B7%D0%B8%D1%81_%D0%92%D0%B5%D1%81%D1%82%D0%BC%D0%B8%D0%BD%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%81%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D0%B8.pdf", "fullName": "Раздел: Катехизисы"},
+    
+    { "title": "История христианства", "link": "https://reformationheritage.neocities.org/History/Justo_L_Gonzalez/Justo_L_Gonzalez_Books", "fullName": "Раздел: История церкви", "author": "- Хусто Гонсалес"},
+    { "title": "История Христианской Церкви", "link": "https://reformationheritage.neocities.org/History/Philip_Schaff/Philip_Schaff", "fullName": "Раздел: История церкви", "author": "- Филипп Шафф"},
+    { "title": "Книга мучеников Фокса", "link": "https://reformationheritage.neocities.org/History/John_Foxe/John_Foxe", "fullName": "Раздел: История церкви", "author": "- Джон Фокс"}
+
+    
   ],
+
+
+
+
+
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
